@@ -10,7 +10,7 @@ import os
 st.set_page_config(
     page_title="E-Commerce Customer Churn Prediction",
     page_icon="🛒",
-    layout="centered"
+    layout="wide"
 )
 
 # =========================================================
